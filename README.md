@@ -1,8 +1,13 @@
 - 👋 Hi, I’m @Oconzz
-- 👀 I’m interested in Java, Javascript, react native, flutter, typescript, databases (SQL and NoSQL), and IA.
-- 🌱 I’m currently learning machine learning and automated tasks
+- 👀 I’m interested in web development, Java, JavaScript, React Native, Flutter, TypeScript, databases (SQL and NoSQL), and AI.
+- 🌱 I’m currently learning machine learning and automated tasks.
+- 💻 I’ve completed courses in **Java** (from zero to professional), **React Native** (developing cross-platform mobile apps), and **Fullstack Web Development** (using JavaScript, React, Angular, Vue, Node.js, and more). Some of the key topics I've mastered include:
+  - **Object-Oriented Programming** in Java, encapsulation, inheritance, polymorphism
+  - **Spring Boot** and **JPA (Hibernate)** for creating RESTful APIs and database integration
+  - Developing mobile apps using **React Native** with integrations like Firebase
+  - Fullstack web apps with **React**, **Node.js**, and **MySQL/MongoDB**
+  - **JavaFX** for desktop applications
+  - Building real-world projects that solve practical problems
 - 💞️ I’m looking to apply my knowledge to make the world a cooler place to live!!
 - 📫 My email for contact is oconz.dev@gmail.com
 - ⚡ Fun fact: My dreams keep me full of life and starving to win!
-
-
