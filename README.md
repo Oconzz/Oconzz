@@ -1,13 +1,8 @@
-- 👋 Hi, I’m @Oconzz
-- 👀 I’m interested in web development, Java, JavaScript, React Native, Flutter, TypeScript, databases (SQL and NoSQL), and AI.
-- 🌱 I’m currently learning machine learning and automated tasks.
-- 💻 I’ve completed courses in **Java** (from zero to professional), **React Native** (developing cross-platform mobile apps), and **Fullstack Web Development** (using JavaScript, React, Angular, Vue, Node.js, and more). Some of the key topics I've mastered include:
-  - **Object-Oriented Programming** in Java, encapsulation, inheritance, polymorphism
-  - **Spring Boot** and **JPA (Hibernate)** for creating RESTful APIs and database integration
-  - Developing mobile apps using **React Native** with integrations like Firebase
-  - Fullstack web apps with **React**, **Node.js**, and **MySQL/MongoDB**
-  - **JavaFX** for desktop applications
-  - Building real-world projects that solve practical problems
-- 💞️ I’m looking to apply my knowledge to make the world a cooler place to live!!
-- 📫 My email for contact is oconz.dev@gmail.com
-- ⚡ Fun fact: My dreams keep me full of life and starving to win!
+- 👋 Hi, I’m @Oconzz, graduating Software Engineer
+  - This account is only for studies and freelance purposes. My work github account is https://github.com/Rafael-Ocon
+- As a full stack, I work with web, mobile and back-end development.
+- My stack: Next.js, EcmaScript, TypeScript, React, React Native, SwiftUI, Go, Nest, ASP.net, Phyton and AI.
+- 🌱 I’m currently getting deeper into machine learning, automation, AWS and project management.
+-  My personal email for contact is oconz.dev@gmail.com
+-  Need a project? Check out my website: https://kode.systems 
+
